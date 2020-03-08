@@ -244,8 +244,6 @@ div.listing .writeup {
 div.listing .writeup ul {
   list-style-type: circle;
 }
-div.listing .writeup .date {
-}
 div.listing .writeup .highlight {
   background-color: #71a6ea;
   color: #fff;
