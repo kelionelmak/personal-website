@@ -263,8 +263,6 @@ div.listing .writeup .title {
   font-weight: bold;
   font-size: 2rem;
 }
-div.listing .writeup .position {
-}
 div.listing .writeup .article {
   font-size: 0.8rem;
   color: #444;
