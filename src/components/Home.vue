@@ -16,7 +16,7 @@
         </code>
       </div>
       <div class="headline">Here's the latest copy of my <a href="https://www.dropbox.com/s/bdmz8ydu0y56hz2/Resume.pdf?dl=0" target="_blank">Résumé</a></div>
-      <div class="headline">You can reach me at <a href="mailto:kelionelmak.2019@sis.smu.edu.sg">kelionelmak.2019@sis.smu.edu.sg</a></div>
+      <div class="headline">You can reach me at <a href="mailto:kelionelmak@gmail.com">kelionelmak@gmail.com</a></div>
       <div class="feature">
         Work Experience
       </div>
@@ -30,9 +30,9 @@
           <div class="position">Audit Analyst</div>
           <ul>
             <li>Developed Tableau dashboards for IT compliance work for Singapore government agencies.</li>
-            <li>Analyzed large company data in internal audit projects for a leading LNG (Liquefied Natural Gas) terminal operator and several Singapore government ministries.</li>
-            <li>Developed and presented analytics solutions to several clients.</li>
-            <li>Conducted data analytics training and workshops for both Deloitte staff and clients.</li>
+            <li>Analysed large company data in internal audit projects for several Singapore government ministries and a leading LNG (Liquefied Natural Gas) terminal operator for non-compliance or fraud.</li>
+            <li>Developed and presented analytics solutions to several clients to secure engagements.</li>
+            <li>Initiated and conducted data analytics training for Deloitte staff and 50 participants of a client to improve competencies.</li>
           </ul>
           <div class="article">Testimonial: <a href="https://www.dropbox.com/s/3ubly7mn2tk3vw4/Deloitte_Testimonial.pdf?dl=0" target="_blank">Dropbox</a></div>
         </div>
@@ -46,8 +46,8 @@
           <div class="date"><i>Singapore</i>, September 2016</div>
           <div class="position">Data Analyst Intern</div>
           <ul>
-            <li>Revamped Air Traffic Statistics Reports for top management of Changi Airport Group and Civil Aviation Authority of Singapore using Tableau to provide more data insights, data accuracy and reduced 80% of process time.</li>
-            <li>Analyzed untapped and unstructured Wi-Fi@Changi and geospatial data to provide observations and recommendations for better operational efficiency.</li>
+            <li>Revamped Air Traffic Statistics Reports for top management of 7 clusters and 16 divisions across Changi Airport Group and Civil Aviation Authority of Singapore for monitoring and reporting, planning, analysis and media release using Tableau to provide more data insights, data accuracy and reduced process time by 80%.</li>
+            <li>Analysed untapped and unstructured Wi-Fi@Changi and geospatial data to provide observations and recommendations to improve operational efficiency.</li>
           </ul>
           <div class="article">Testimonial: <a href="https://www.dropbox.com/s/syp8uksppn1j14t/ChangiAirportGroup_Testimonial.pdf?dl=0" target="_blank">Dropbox</a></div>
         </div>
@@ -92,7 +92,7 @@
       </div>
       <div class="listing last">
         <div class="img-wrapper">
-          <img src="../assets/img/tp.jpg" />
+          <img src="../assets/img/tp.png" />
         </div>
         <div class="writeup">
           <div class="title">Temasek Polytechnic</div>
